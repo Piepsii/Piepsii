@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piepsii
 
 - 👀 I’m interested in creating games.
-- 🌱 I’m currently learning many things:
+- 🌱 I’m currently learning things:
   - 🏫 I am studying game design and programming at the Uppsala University in Visby, Sweden.
   - 💻 Learning how to use Unity & JetBrains Rider on a Linux system.
   - 📓 Writing C++ and C#
