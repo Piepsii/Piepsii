@@ -11,6 +11,7 @@
 - 💞️ I’m looking to collaborate on indie games and FOSS!
 
 - 📫 paulbrandstetter@tuta.io
+- https://www.linkedin.com/in/paul-brandstetter-69561b224/
 
 <!---
 Piepsii/Piepsii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
