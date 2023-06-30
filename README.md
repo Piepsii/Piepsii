@@ -10,7 +10,7 @@
   - 📓 Writing C++ and C#
 - 💞️ I’m looking to collaborate on indie games and FOSS!
 
-- 📫 paulbrandstetter@tuta.io
+- 📫 paulbrandstetter00@gmail.com
 - https://www.linkedin.com/in/paul-brandstetter-69561b224/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
